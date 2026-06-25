@@ -1,0 +1,16 @@
+2026-06-21 15:11:49,490 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getMe "HTTP/1.1 200 OK"
+2026-06-21 15:11:49,545 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/deleteWebhook "HTTP/1.1 200 OK"
+2026-06-21 15:11:49,547 [INFO] telegram.ext.Application: Application started
+2026-06-21 15:11:59,726 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getUpdates "HTTP/1.1 200 OK"
+2026-06-21 15:12:07,125 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getUpdates "HTTP/1.1 200 OK"
+2026-06-21 15:12:07,572 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/sendMessage "HTTP/1.1 200 OK"
+2026-06-21 15:12:09,720 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getUpdates "HTTP/1.1 200 OK"
+2026-06-21 15:12:09,796 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/sendMessage "HTTP/1.1 200 OK"
+2026-06-21 15:12:13,884 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getUpdates "HTTP/1.1 200 OK"
+2026-06-21 15:12:13,950 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/sendChatAction "HTTP/1.1 200 OK"
+2026-06-21 15:12:14,085 [INFO] weather_integration: Success: Weather data fetched for city 'Париж' in 0.13s
+2026-06-21 15:12:14,163 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/sendMessage "HTTP/1.1 200 OK"
+2026-06-21 15:12:23,940 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getUpdates "HTTP/1.1 200 OK"
+2026-06-21 15:12:33,859 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8920712875:AAH5lqjrIJ21a4vT4cIusZEp_mCLt2hMoi4/getUpdates "HTTP/1.1 200 OK"
+2026-06-21 15:12:33,860 [INFO] telegram.ext.Application: Application is stopping. This might take a moment.
+2026-06-21 15:12:33,860 [INFO] telegram.ext.Application: Application.stop() complete
